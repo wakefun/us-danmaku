@@ -24,8 +24,8 @@
 
 // 设置项
 var config = {
-  'playResX': 560,           // 屏幕分辨率宽（像素）
-  'playResY': 420,           // 屏幕分辨率高（像素）
+  'playResX': 888,           // 屏幕分辨率宽（像素）
+  'playResY': 888,           // 屏幕分辨率高（像素）
   'fontlist': [              // 字形（会自动选择最前面一个可用的）
     'Microsoft YaHei UI',
     'Microsoft YaHei',
